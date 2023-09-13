@@ -1,0 +1,6 @@
+node_modules
+authentication
+.upm
+package-lock.json
+.replit
+replit.nix

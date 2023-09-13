@@ -1,0 +1,20 @@
+{
+  "name": "savekamu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "theazran",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "@whiskeysockets/baileys": "^6.4.1",
+    "node-fetch": "^3.2.6",
+    "pino": "^8.15.1",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "description": "Untuk mengetahui kontak WhatsApp yang belum kamu save"
+}
